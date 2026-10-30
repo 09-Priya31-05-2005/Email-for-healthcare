@@ -1,0 +1,18 @@
+[
+    {
+        "patient_id": "P1001",
+        "previous_complaints": [],
+        "previous_interactions": [
+            "Appointment reminder sent"
+        ]
+    },
+    {
+        "patient_id": "P1002",
+        "previous_complaints": [
+            "Billing inquiry"
+        ],
+        "previous_interactions": [
+            "Billing support contacted"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "patient_id": "P1001",
+        "appointment_date": "Yesterday",
+        "appointment_time": "10:00 AM",
+        "department": "Cardiology",
+        "service": "Cardiology appointment/consultation",
+        "arrival_time": "9:30 AM",
+        "status": "Completed"
+    },
+    {
+        "patient_id": "P1002",
+        "appointment_date": "Yesterday",
+        "appointment_time": "2:00 PM",
+        "department": "General Medicine",
+        "service": "General consultation",
+        "arrival_time": "1:45 PM",
+        "status": "Completed"
+    }
+]
